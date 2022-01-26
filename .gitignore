@@ -1,3 +1,9 @@
+# add config.py file
+config.py
+
+# Add practice files
+Practice/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
