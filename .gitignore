@@ -3,6 +3,7 @@ config.py
 
 # Add practice files
 Practice/
+JSON_practice.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
