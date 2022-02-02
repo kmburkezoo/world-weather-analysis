@@ -1,7 +1,8 @@
-# add config.py file
+# add config.py files
 config.py
 Weather_Database/config.py
 Vacation_Search/config.py
+Vacation_Itinerary/config.py
 
 # Add practice files
 Practice/
